@@ -1,4 +1,5 @@
 #summary Wishlist of features
+#labels Featured,Phase-Requirements
 
 = Project Wishlist =
   * Intelligently interpret packages, and build directory tree (currently only puts everything in one directory)
